@@ -1,0 +1,7 @@
+name = "freebie-token-bot"
+main = "src/worker.js"
+compatibility_date = "2026-11-10"
+workers_dev = true
+
+[vars]
+PUBLIC_BASE_URL = "https://freebie-token-bot.vadikvladun.workers.dev"
